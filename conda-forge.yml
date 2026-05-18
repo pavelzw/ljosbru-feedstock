@@ -5,6 +5,8 @@ github:
 conda_build:
   error_overlinking: true
 conda_forge_output_validation: true
+bot:
+  automerge: true
 provider:
   osx_arm64: default
   linux_aarch64: default
